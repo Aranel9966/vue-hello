@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
-#app{
-    background-color: blue;
+.red{
+    color: red;
+}
+
+.center{
+    text-align: center;
+}
+
+.width-img{
+    width: 300px;
 }
