@@ -12,7 +12,9 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        message: 'Ciao a tutti!'
+        message: 'Ciao a tutti!',
+        image: 'https://wallpapercave.com/wp/wp3588300.jpg',
       }
     }
   }).mount('#app')
+
