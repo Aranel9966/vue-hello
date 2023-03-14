@@ -4,14 +4,16 @@
     box-sizing: border-box;
 }
 
-.red{
-    color: red;
-}
+/* .red{
+    
+} */
 
-.center{
+.color{
     text-align: center;
+    color: red;
 }
 
 .width-img{
     width: 300px;
+    
 }

@@ -14,7 +14,7 @@ const { createApp } = Vue
       return {
         message: 'Ciao a tutti!',
         image: 'https://cdn.wallpapersafari.com/82/50/QRfT4t.jpg',
-        classColor:'center',
+        classColor:'color',
         classWidth:'width-img'
       }
     },
